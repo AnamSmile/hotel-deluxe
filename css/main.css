@@ -268,7 +268,7 @@ footer{
 
 .view_price {
     background-color: #2a2e33;
-    width: 1019px;
+    width: 1140px;
     height: 102px;
     position: absolute;
     left: 0;
@@ -281,6 +281,7 @@ footer{
 .form-group {
     float: left;
     margin-left: 15px;
+    padding: 0px 18px;
     
 }
 
