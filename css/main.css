@@ -475,14 +475,14 @@ footer{
 }
 
 .footer_wrapper{
-    width: 1350px;
+    width: 1300px;
     height: 188px;
     margin: 0px auto;
     padding-top: 25px;
 }
 
 .about_hotel {
-    width: 310px;
+    width: 300px;
     height: 200px;
 }
 .about_hotel h1, .latest_news h1, .join_delux h1, .member_area h1{
@@ -505,7 +505,7 @@ footer{
     color: #000000;
 }
 .latest_news {
-    width: 310px;
+    width: 300px;
     height: 200px;
     margin-left: 22px;
 }
@@ -525,7 +525,7 @@ footer{
 }
 
 .join_delux {
-    width: 460px;
+    width: 423px;
     height: 200px;
 }
 
@@ -543,9 +543,8 @@ footer{
 }
 
 .member_area {
-    width: 210px;
+    width: 200px;
     height: 200px;
-    margin-left: 38px;
     
 
 }
